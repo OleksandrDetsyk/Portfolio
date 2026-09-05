@@ -10,6 +10,7 @@ I am Oleksandr, a data engineer with experience in fintech, and previous experie
 - Grafana
 - Git
 - Docker
+- Various AI instruments (Claude, Copilot)
 - Excel
 
 ## Portfolio projects
