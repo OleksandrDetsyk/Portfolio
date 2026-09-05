@@ -1,7 +1,7 @@
 # Analytics Engineer Portfolio, Oleksandr Detsyk
 ## About me
 Greetings! 
-I am Oleksandr, an analytics engineer with experience in fintech, and previous experience in data and financial analyses. I believe in having a wide spectrum of interconnected lattices of knowledge, which is why this portfolio features projects in Data Engineering, Data Analysis, and Quantitative Analysis.
+Greetings! I am Oleksandr, an analytics engineer with a background in fintech, data analysis, and financial modeling. I believe in building an interconnected lattice of knowledge, which is why this portfolio features projects spanning Data Engineering, Data Analysis, and Quantitative Analysis.
 
 ## 🛠️ Technical skills
 - PostgreSQL
