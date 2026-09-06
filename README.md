@@ -10,7 +10,7 @@ Greetings! I am Oleksandr, an analytics engineer with a background in fintech, d
 - Grafana
 - Git
 - Docker
-- Various AI instruments (Claude, Copilot)
+- Various AI tools (Claude, Copilot)
 - Excel
 
 ## Portfolio projects
